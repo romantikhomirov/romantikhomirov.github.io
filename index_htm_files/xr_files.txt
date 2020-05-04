@@ -1,12 +1,11 @@
 index_htm_files
 index.htm
-index_htm_files/184.png
-index_htm_files/7863.png
+golden-praries-levels.htm
+index_htm_files/7963.png
 index_htm_files/7773.png
 index_htm_files/5974.jpg
 index_htm_files/7683.jpg
 index_htm_files/7684.jpg
-index_htm_files/7870.jpg
 index_htm_files/7686.jpg
 index_htm_files/7694.jpg
 index_htm_files/7622.png
@@ -58,3 +57,9 @@ index_htm_files/6163.jpg
 index_htm_files/6164.jpg
 index_htm_files/6165.jpg
 index_htm_files/6166.jpg
+index_htm_files/7956.jpg
+index_htm_files/7957.jpg
+index_htm_files/7958.jpg
+index_htm_files/7959.jpg
+index_htm_files/7960.jpg
+index_htm_files/7966.png
