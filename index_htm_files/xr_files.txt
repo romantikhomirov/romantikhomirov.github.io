@@ -1,6 +1,5 @@
 index_htm_files
 index.htm
-golden-praries-levels.htm
 index_htm_files/7963.png
 index_htm_files/7773.png
 index_htm_files/5974.jpg
