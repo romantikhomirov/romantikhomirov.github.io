@@ -39,7 +39,6 @@ index_htm_files/7509.jpg
 index_htm_files/7510.jpg
 index_htm_files/7511.png
 index_htm_files/7512.jpg
-index_htm_files/7673.png
 index_htm_files/7736.png
 index_htm_files/7771.png
 index_htm_files/7772.png
@@ -62,3 +61,5 @@ index_htm_files/7958.jpg
 index_htm_files/7959.jpg
 index_htm_files/7960.jpg
 index_htm_files/7966.png
+index_htm_files/8130.png
+index_htm_files/8154.png
